@@ -1,5 +1,5 @@
 {
-  "name": "@bbc/cucumber-slicer",
+  "name": "@splurgeop/cucumber-slicer",
   "version": "1.0.9",
   "description": "Split cucumber feature files into a separate file for each scenario",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbc/cucumber-slices.git"
+    "url": "git+https://github.com/splurgeop/cucumber-slices.git"
   },
   "keywords": [
     "cucumber",
@@ -17,12 +17,12 @@
     "feature",
     "gherkin"
   ],
-  "author": "CPS Team",
+  "author": "Om Prakash Mishra",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/bbc/cucumber-slices/issues"
+    "url": "https://github.com/splurgeop/cucumber-slices/issues"
   },
-  "homepage": "https://github.com/bbc/cucumber-slices#readme",
+  "homepage": "https://github.com/splurgeop/cucumber-slices#readme",
   "dependencies": {
     "gherkin": "^5.0.0"
   },
